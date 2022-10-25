@@ -1,0 +1,12 @@
+org/mymoney/backend/model/Fund.class
+org/mymoney/backend/model/Command.class
+org/mymoney/backend/model/Asset.class
+org/mymoney/backend/MyMoneyApplication.class
+org/mymoney/backend/config/MyMoneyConfig.class
+org/mymoney/backend/service/impl/DefaultPortfolioService.class
+org/mymoney/backend/service/PortfolioManager$1.class
+org/mymoney/backend/service/PortfolioService.class
+org/mymoney/backend/dto/Portfolio.class
+org/mymoney/backend/dao/PortfolioData.class
+org/mymoney/backend/constants/MyMoneyConstants.class
+org/mymoney/backend/service/PortfolioManager.class
